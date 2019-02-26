@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.DataAccess", "AdventureWorks.DataAccess\AdventureWorks.DataAccess.csproj", "{A27C4D2F-D587-423D-A6B6-2868274BDC77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.API", "AdventureWorks.API\AdventureWorks.API.csproj", "{2AB1B751-2730-4C0C-8B76-8CD52E2F6C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27C4D2F-D587-423D-A6B6-2868274BDC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27C4D2F-D587-423D-A6B6-2868274BDC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27C4D2F-D587-423D-A6B6-2868274BDC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27C4D2F-D587-423D-A6B6-2868274BDC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB1B751-2730-4C0C-8B76-8CD52E2F6C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB1B751-2730-4C0C-8B76-8CD52E2F6C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB1B751-2730-4C0C-8B76-8CD52E2F6C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB1B751-2730-4C0C-8B76-8CD52E2F6C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E72751-5EA5-4D86-B37C-51C12456C400}
+	EndGlobalSection
+EndGlobal
